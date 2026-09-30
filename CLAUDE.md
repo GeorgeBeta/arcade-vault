@@ -43,3 +43,6 @@ There is no test setup in this repo yet.
 - All user-facing text (labels, buttons, nav, messages, placeholders) must be in Spanish — see `prompt-arcade-vult.md` for exact terms (e.g. "JUGAR", "GUARDAR PUNTUACIÓN", "VOLVER AL VAULT").
 - Path alias `@/*` maps to the repo root (`tsconfig.json`).
 - ESLint uses the flat config format (`eslint.config.mjs`) with `eslint-config-next`'s `core-web-vitals` and `typescript` rule sets.
+
+## Skills
+Usa siempre /frontend-design para diseñar la interfaz de usuario
